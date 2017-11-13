@@ -1,4 +1,7 @@
 .navbar navbar-default {width: 100%;}
 .navbar-header {font-family: bold;
 font-size: 36px;}
-.copyright {align-content: center;}
+.copyright {align-content: center;
+color: white;
+margin: auto;
+width: 50%;}
