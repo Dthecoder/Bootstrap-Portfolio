@@ -9,6 +9,19 @@ html {
 }
 body {
   margin-bottom: 60px; /* Margin bottom by footer height */
+  background: peru;
+
+}
+
+ .box {background:white;
+ 	padding: 20px;
+ 	height: 400px;
+ 	margin: 0 20px;
+ }
+
+ .mypicture {padding:0 10px 0 0;
+width: 140px;}
+
 }
 .footer {
   position: absolute;
