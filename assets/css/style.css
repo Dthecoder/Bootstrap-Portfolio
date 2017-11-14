@@ -1,0 +1,38 @@
+.navbar navbar-default {width: 100%;}
+.navbar-header {font-family: bold;
+font-size: 36px;}
+.myname {color: green;}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 60px; /* Margin bottom by footer height */
+  background: peru;
+
+}
+
+ .box {background:white;
+ 	padding: 20px;
+ 	height: 400px;
+ 	margin: 0 20px;
+ }
+
+ .mypicture {padding:0 10px 0 0;
+width: 140px;}
+
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px; /* Set the fixed height of the footer here */
+  line-height: 60px; /* Vertically center the text there */
+  background-color: #666;
+}
+
+.copyright {align-content: center;
+margin: auto;
+width: 50%;
+color:white;}
